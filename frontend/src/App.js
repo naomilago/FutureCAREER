@@ -7,6 +7,7 @@ import OurDetails from './components/ourDetails';
 import JobList from './components/jobList';
 import WeAreChangingLives from './components/weAreChangingLives';
 import TrustedBy from './components/trustedBy';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <JobList />
       <WeAreChangingLives />
       <TrustedBy />
+      <Footer />
     </div>
   );
 }
