@@ -1,0 +1,5 @@
+.justify-content-around {
+  @media screen and (max-width: 640px) {
+    justify-content: center !important;
+  }
+}
